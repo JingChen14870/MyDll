@@ -1,4 +1,4 @@
-// dllmain.cpp : Defines the entry point for the DLL application. Comments
+// dllmain.cpp : Defines the entry point for the DLL application. Comments ; Comments1
                        DWORD  ul_reason_for_call,
                        LPVOID lpReserved
 					 )
